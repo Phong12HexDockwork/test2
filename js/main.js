@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Happy Girl day 20.10 ').split('')
+    const titles = ('Happy Women day 20.10 ').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
